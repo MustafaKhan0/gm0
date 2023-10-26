@@ -13,7 +13,6 @@ venv.bak/
 pythonenv*
 
 # Distribution / packaging
-build/
 .dist/
 
 # operating system-related files
